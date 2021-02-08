@@ -13,7 +13,9 @@ A Full Stack Application from where users can book, review and see different tou
 
 
 
+## Documentation
 
+The documentation was uploaded on the postman-docs: https://documenter.getpostman.com/view/12167004/TW76B3zf
 
 ## Deployed Version
 
